@@ -31,7 +31,7 @@
         Leveraging Athena's SQL-like query capabilities, we were able to perform robust data analysis to uncover insights into stock market trends and patterns
 
 ## References
-    1. Video tutorial - [https://www.youtube.com/watch?v=KerNf0NANMo](https://www.youtube.com/watch?v=KerNf0NANMo)
+    1. Video tutorial - https://www.youtube.com/watch?v=KerNf0NANMo
     2. AWS Account Tutorial - https://www.youtube.com/watch?v=kbtDJHgjrPc
     3. Github project - https://github.com/darshilparmar/stock-market-kafka-data-engineering-project
   
